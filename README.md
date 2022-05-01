@@ -1,9 +1,9 @@
 ### Hello world 🌍! Eu sou o Lucas Gabriel
 
 
-- 🔭 Hoje trabalho com  vendas
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Estou procurando estágio em T.I.
+- 🔭 Atualmente Tech Recruiter 
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 👯 Estou em busca da primeira oportunidade na área de Tecnologia.
 
 <div>
   <a href="https://github.com/Lucas-gfranca">
